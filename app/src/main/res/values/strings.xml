@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidStudyHomework</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="department_objectives">희망 학과(중/고등학교, 편입)</string>
+    <string name="validate_duplicate_id">중복 체크</string>
+    <string name="sing_in">가입하기</string>
+    <string name="sex_radio_group_man">남자</string>
+    <string name="sex_radio_group_woman">여자</string>
+    <string name="hint_id_text_input">아이디</string>
+    <string name="hint_password_text_input">비밀번호</string>
+    <string name="hint_email_text_input">이메일</string>
+    <string name="alert_dialog_id_validation_empty">아이디는 빈 칸일 수 없습니다</string>
+    <string name="alert_dialog_id_validation_already_exists">사용할 수 없는 아이디입니다</string>
+    <string name="alert_dialog_id_validation_can_use">사용할 수 있는 아이디입니다</string>
+    <string name="alert_dialog_ok">확인</string>
+    <string name="alert_dialog_should_fill_form">입력되지 않은 필드가 있습니다</string>
+    <string name="content_description_flower_thumb">꽃 리스트 아이템 썸네일 이미지</string>
+    <string name="access">access</string>
+</resources>

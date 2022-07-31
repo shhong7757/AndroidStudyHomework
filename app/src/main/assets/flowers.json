@@ -1,0 +1,68 @@
+[
+  {
+    "uid": 0,
+    "name": "국화",
+    "description": "이 꽃은 국화입니다",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Chrysanthemums.jpg"
+  },
+  {
+    "uid": 1,
+    "name": "튤립",
+    "description": "이 꽃은 튤립입니다",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Tulip_-_floriade_canberra03.jpg"
+  },
+  {
+    "uid": 2,
+    "name": "수국",
+    "description": "이 꽃은 수국입니다",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hydrangea_macrophylla_-_Hortensia_hydrangea.jpg"
+  },
+  {
+    "uid": 3,
+    "name": "개나리",
+    "description": "이 꽃은 개나리입니다",
+    "image": "https://upload.wikimedia.org/wikipedia/ko/e/e2/%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%A7%80%EC%8B%9D%EA%B3%B5%EC%9C%A0115.JPG"
+  },
+  {
+    "uid": 4,
+    "name": "메밀꽃",
+    "description": "이 꽃은 메밀꽃입니다",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%EB%A9%94%EB%B0%80.JPG/1920px-%EB%A9%94%EB%B0%80.JPG"
+  },
+  {
+    "uid": 5,
+    "name": "코스모스",
+    "description": "이 꽃은 코스모스입니다",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Cosmos_bipinnatus03.jpg"
+  },
+  {
+    "uid": 6,
+    "name": "접시꽃",
+    "description": "이 꽃은 접시꽃입니다",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Stockrose_2006_07_4.JPG"
+  },
+  {
+    "uid": 7,
+    "name": "수국",
+    "description": "이 꽃은 수국입니다",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hydrangea_macrophylla_-_Hortensia_hydrangea.jpg"
+  },
+  {
+    "uid": 8,
+    "name": "수선화",
+    "description": "이 꽃은 수선화입니다",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Narzisse.jpg/2880px-Narzisse.jpg"
+  },
+  {
+    "uid": 9,
+    "name": "채송화",
+    "description": "이 꽃은 채송화입니다",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Portulaca_grandiflora2.jpg"
+  },
+  {
+    "uid": 10,
+    "name": "복수초",
+    "description": "이 꽃은 복수초입니다",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/W_hukujusou4031.jpg"
+  }
+]
